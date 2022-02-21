@@ -13,6 +13,7 @@
 		9E70F0E127BF546200ECAB26 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E70F0DF27BF546200ECAB26 /* Main.storyboard */; };
 		9E70F0E327BF546300ECAB26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E70F0E227BF546300ECAB26 /* Assets.xcassets */; };
 		9E70F0E627BF546300ECAB26 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E70F0E427BF546300ECAB26 /* LaunchScreen.storyboard */; };
+		9E70F0EE27BF863000ECAB26 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E70F0ED27BF863000ECAB26 /* Menu.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9E70F0E227BF546300ECAB26 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E70F0E527BF546300ECAB26 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9E70F0E727BF546300ECAB26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9E70F0ED27BF863000ECAB26 /* Menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				9E70F0DB27BF546200ECAB26 /* SceneDelegate.swift */,
 				9E70F0DD27BF546200ECAB26 /* ViewController.swift */,
 				9E70F0DF27BF546200ECAB26 /* Main.storyboard */,
+				9E70F0ED27BF863000ECAB26 /* Menu.swift */,
 				9E70F0E227BF546300ECAB26 /* Assets.xcassets */,
 				9E70F0E427BF546300ECAB26 /* LaunchScreen.storyboard */,
 				9E70F0E727BF546300ECAB26 /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				9E70F0DE27BF546200ECAB26 /* ViewController.swift in Sources */,
 				9E70F0DA27BF546200ECAB26 /* AppDelegate.swift in Sources */,
+				9E70F0EE27BF863000ECAB26 /* Menu.swift in Sources */,
 				9E70F0DC27BF546200ECAB26 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
